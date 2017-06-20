@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  border: 2px solid black;
+  grid-template-columns: 20% 20% 20% 20%;
+  grid-template-rows:  20vw 20vw;
+  justify-content: space-around;
+  margin-top: 10vw;
+}
+
+.profile {
+  border: 1px solid grey;
+  margin: 2vw 0vw;
+}
